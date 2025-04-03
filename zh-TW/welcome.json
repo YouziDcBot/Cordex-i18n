@@ -1,0 +1,33 @@
+{
+    "title": "歡迎來到 {{0}}",
+    "subtitle": "一個功能強大且易於使用的 Discord 機器人。",
+    "inviteButton": "邀請機器人",
+    "commandsButton": "查看指令",
+    "hero": {
+        "altText": "{{0}} 的標誌"
+    },
+    "features": {
+        "title": "強大功能，一應俱全",
+        "subtitle": "探索 {{0}} 如何讓你的 Discord 社群更上一層樓。",
+        "management": {
+            "title": "輕鬆管理",
+            "description": "自動執行管理任務，例如歡迎新成員、設定規則和管理訊息。",
+            "alt": "管理圖示"
+        },
+        "i18n": {
+            "title": "多語言支援",
+            "description": "支援多種語言，讓你的社群成員能夠輕鬆溝通。",
+            "alt": "多語言圖示"
+        },
+        "fast": {
+            "title": "快速回應的機器人",
+            "description": "即時回應指令，提供流暢的互動體驗。",
+            "alt": "快速回應圖示"
+        }
+    },
+    "cta": {
+        "title": "準備好提升你的社群了嗎？",
+        "subtitle": "立即將 {{0}} 加入你的 Discord 伺服器，體驗全新的互動和管理方式！",
+        "button": "立即邀請"
+    }
+}
