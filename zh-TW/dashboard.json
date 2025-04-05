@@ -8,5 +8,10 @@
     "meta": {
         "title": "儀表板",
         "description": "管理您的伺服器設定，查看個人化的資訊。"
-    }
+    },
+    "register_bot_command": "註冊 Bot 指令",
+    "register_bot_command_description": "點擊按鈕以註冊您的 Bot 指令。",
+    "register_bot_command_success": "Bot 指令註冊請求已成功發送！",
+    "register_bot_command_failed": "Bot 指令註冊請求失敗：{{error}}",
+    "register_bot_command_error": "發送 Bot 指令註冊請求時發生未知錯誤。"
 }
