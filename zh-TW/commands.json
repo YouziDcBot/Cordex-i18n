@@ -1,4 +1,11 @@
 {
   "title": "指令列表",
-  "description": "以下是 {{0}} 支援的所有指令。"
+  "description": "以下是 {{0}} 支援的所有指令。",
+  "search_command": "搜尋指令",
+  "name": "名稱",
+  "description_label": "描述",
+  "meta": {
+    "title": "指令",
+    "description": "探索所有可用的指令，提升您的 Discord 體驗。"
+  }
 }

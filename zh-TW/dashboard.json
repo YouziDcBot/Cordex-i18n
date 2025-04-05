@@ -1,0 +1,12 @@
+{
+    "unauthorized_title": "未授權",
+    "unauthorized_message": "您需要登入才能訪問此頁面。",
+    "greeting": "您好，{{userName}}！",
+    "select_page": "請前往頁面：",
+    "guilds_link": "伺服器管理",
+    "user_link": "用戶設定",
+    "meta": {
+        "title": "儀表板",
+        "description": "管理您的伺服器設定，查看個人化的資訊。"
+    }
+}

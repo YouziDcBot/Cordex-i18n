@@ -4,5 +4,9 @@
   "community_title": "加入我們的社群",
   "community_intro": "透過以下連結加入我們的 Discord 社群或查看 GitHub。",
   "discord_link_text": "加入 Discord 社群",
-  "github_link_text": "查看 GitHub 專案"
+  "github_link_text": "查看 GitHub 專案",
+  "meta": {
+    "title": "支援",
+    "description": "獲取幫助並加入我們的社群，讓我們一起成長。"
+  }
 }
