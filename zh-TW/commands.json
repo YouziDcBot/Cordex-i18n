@@ -4,6 +4,10 @@
   "search_command": "搜尋指令",
   "name": "名稱",
   "description_label": "描述",
+  "no_description": "無描述",
+  "slash_command": "斜線命令",
+  "user_command": "使用者命令",
+  "message_command": "訊息命令",
   "meta": {
     "title": "指令",
     "description": "探索所有可用的指令，提升您的 Discord 體驗。"
