@@ -2,6 +2,7 @@
     "title": "頁面未找到",
     "description": "抱歉，我們無法找到您要訪問的頁面。",
     "backToHome": "返回首頁",
+    "backToPrevious": "返回上一頁",
     "meta": {
         "title": "未找到",
         "description": "抱歉，您訪問的頁面不存在，請返回首頁。"
