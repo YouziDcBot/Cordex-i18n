@@ -1,0 +1,37 @@
+{
+    "title": "Welcome to {{0}}",
+    "subtitle": "A powerful and easy-to-use Discord bot.",
+    "inviteButton": "Invite Bot",
+    "commandsButton": "View Commands",
+    "hero": {
+        "altText": "Logo of {{0}}"
+    },
+    "features": {
+        "title": "Powerful Features, All-in-One",
+        "subtitle": "Discover how {{0}} can take your Discord community to the next level.",
+        "management": {
+            "title": "Engage Community",
+            "description": "Packed with features to keep your community active.",
+            "alt": "Community icon"
+        },
+        "i18n": {
+            "title": "Multilingual Support",
+            "description": "Supports multiple languages so your members can communicate easily.",
+            "alt": "Multilingual icon"
+        },
+        "fast": {
+            "title": "Fast Responding Bot",
+            "description": "Instant command responses for a smooth interactive experience.",
+            "alt": "Fast response icon"
+        }
+    },
+    "cta": {
+        "title": "Ready to level up your community?",
+        "subtitle": "Add {{0}} to your Discord server now and experience a new way to interact and manage!",
+        "button": "Invite Now"
+    },
+    "meta": {
+        "title": "Welcome",
+        "description": "Learn about our features and invite the bot to your server."
+    }
+}

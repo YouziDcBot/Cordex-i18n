@@ -1,0 +1,15 @@
+{
+  "title": "Command List",
+  "description": "Below are all the commands supported by {{0}}.",
+  "search_command": "Search Command",
+  "name": "Name",
+  "description_label": "Description",
+  "no_description": "No description",
+  "slash_command": "Slash Command",
+  "user_command": "User Command",
+  "message_command": "Message Command",
+  "meta": {
+    "title": "Commands",
+    "description": "Explore all available commands to enhance your Discord experience."
+  }
+}

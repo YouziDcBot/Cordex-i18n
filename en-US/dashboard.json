@@ -1,0 +1,17 @@
+{
+    "unauthorized_title": "Unauthorized",
+    "unauthorized_message": "You need to sign in to access this page.",
+    "greeting": "Hello, {{userName}}!",
+    "select_page": "Please go to page:",
+    "guilds_link": "Server Management",
+    "user_link": "User Settings",
+    "meta": {
+        "title": "Dashboard",
+        "description": "Manage your server settings and view personalized information."
+    },
+    "register_bot_command": "Register Bot Command",
+    "register_bot_command_description": "Click the button to register your bot commands.",
+    "register_bot_command_success": "Bot command registration request sent successfully!",
+    "register_bot_command_failed": "Bot command registration request failed: {{error}}",
+    "register_bot_command_error": "An unknown error occurred while sending the bot command registration request."
+}

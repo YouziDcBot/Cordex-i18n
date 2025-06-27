@@ -1,0 +1,12 @@
+{
+  "title": "Support {{0}}",
+  "intro": "Need help or have questions? Our community is here to support you anytime.",
+  "community_title": "Join Our Community",
+  "community_intro": "Join our Discord community or check out our GitHub via the links below.",
+  "discord_link_text": "Join Discord Community",
+  "github_link_text": "View GitHub Project",
+  "meta": {
+    "title": "Support",
+    "description": "Get help and join our community to grow together."
+  }
+}

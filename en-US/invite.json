@@ -1,0 +1,10 @@
+{
+    "title": "Invite {{0}}",
+    "description": "Invite {{0}} to your server and enjoy its powerful features!",
+    "button": "Invite",
+    "permission_tip": "Make sure you have sufficient permissions to invite the bot.",
+    "meta": {
+        "title": "Invite",
+        "description": "Invite our bot to your server and enjoy powerful features."
+    }
+}
