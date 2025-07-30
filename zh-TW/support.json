@@ -8,5 +8,10 @@
   "meta": {
     "title": "支援",
     "description": "獲取幫助並加入我們的社群，讓我們一起成長。"
-  }
+  },
+  "active_members_title": "活動中的成員",
+  "playing_game": "正在遊玩：{{game}}",
+  "voice_channel_members_title": "語音頻道中的成員",
+  "channel_name": "頻道名稱：{{name}}",
+  "loading": "讀取中"
 }

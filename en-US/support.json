@@ -8,5 +8,10 @@
   "meta": {
     "title": "Support",
     "description": "Get help and join our community to grow together."
-  }
+  },
+  "active_members_title": "Active Members",
+  "playing_game": "Playing: {{game}}",
+  "voice_channel_members_title": "Voice Channel Members",
+  "channel_name": "Channel Name: {{name}}",
+  "loading": "Loading"
 }
