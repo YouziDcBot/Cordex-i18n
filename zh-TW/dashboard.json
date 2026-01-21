@@ -13,5 +13,16 @@
     "register_bot_command_description": "點擊按鈕以註冊您的 Bot 指令。",
     "register_bot_command_success": "Bot 指令註冊請求已成功發送！",
     "register_bot_command_failed": "Bot 指令註冊請求失敗：{{error}}",
-    "register_bot_command_error": "發送 Bot 指令註冊請求時發生未知錯誤。"
+    "register_bot_command_error": "發送 Bot 指令註冊請求時發生未知錯誤。",
+    "link_role_connection": "連接 Linked Roles",
+    "link_role_connection_desc": "啟動 Discord Linked Roles 授權並紀錄加入時間。",
+    "linked_role_error_discord": "Discord 回傳錯誤：{{error}}",
+    "linked_role_error_missing_code_state": "缺少授權資訊，請再試一次。",
+    "linked_role_error_invalid_state": "驗證失敗，請再試一次。",
+    "linked_role_error_generic": "Linked Roles 執行失敗：{{error}}",
+    "linked_role_error_not_signed_in": "請先登入後再操作 Linked Roles。",
+    "linked_role_error_no_session": "尚未建立 Linked Roles 連線，請先連接。",
+    "linked_role_error_disconnect_failed": "取消 Linked Roles 失敗：{{error}}",
+    "unlink_role_connection": "取消 Linked Roles",
+    "linked_role_disconnected": "已取消 Linked Roles 連接"
 }

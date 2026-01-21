@@ -13,5 +13,16 @@
     "register_bot_command_description": "Click the button to register your bot commands.",
     "register_bot_command_success": "Bot command registration request sent successfully!",
     "register_bot_command_failed": "Bot command registration request failed: {{error}}",
-    "register_bot_command_error": "An unknown error occurred while sending the bot command registration request."
+    "register_bot_command_error": "An unknown error occurred while sending the bot command registration request.",
+    "link_role_connection": "Link Discord Role Connection",
+    "link_role_connection_desc": "Start Discord Linked Roles flow and record join time.",
+    "linked_role_error_discord": "Discord returned an error: {{error}}",
+    "linked_role_error_missing_code_state": "Missing authorization info. Please try again.",
+    "linked_role_error_invalid_state": "State verification failed. Please try again.",
+    "linked_role_error_generic": "Linked Roles action failed: {{error}}",
+    "linked_role_error_not_signed_in": "Please sign in before managing Linked Roles.",
+    "linked_role_error_no_session": "No Linked Roles session found. Please link first.",
+    "linked_role_error_disconnect_failed": "Failed to disconnect Linked Roles: {{error}}",
+    "unlink_role_connection": "Unlink Discord Role Connection",
+    "linked_role_disconnected": "Linked Roles disconnected"
 }
